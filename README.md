@@ -6,3 +6,4 @@
 - react-route-dom
 - react-hook-form
 - styled-components
+- typescript
